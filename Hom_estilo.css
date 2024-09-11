@@ -1,0 +1,98 @@
+
+body{
+    background-image: url("../imagens/lana.jpg");
+    background-size: 1370px 810px;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+    color: rgb(255, 230, 1);
+    font-family: Arial;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(63, 66, 84);
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(235, 243, 250);
+    text-align: left;
+    font-size: 30px;
+    padding: 7px;
+    position: fixed;
+    width: 100%;
+}
+
+.container{
+    position: relative;
+}
+
+.container img{
+    position: absolute; 
+    top: 20px; 
+    right: 0; 
+    width: 500px; 
+    height: auto; 
+    margin-left: 10px;
+    margin-right: 70px;
+}
+
+menu{
+    margin-top: 50px;
+    padding: 300px;
+    align-items: right;
+    padding-left: 50em;
+
+}
+
+h1{
+    font-family:Georgia;
+    font-size: 25px;
+    margin: 15px;
+    margin-right: 600px;
+}
+
+h2{
+    margin-top: 60px;
+    margin-left: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+h3{
+    margin-left: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+
+h4{
+    margin-left: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+nav{
+    padding: 1em ;
+    font-size: 15px;
+    text-align:right;
+}
+
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0.5em 1em;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+}
+
+nav a:hover {
+    color: rgb(248, 225, 51);
+    text-decoration: underline;
+}
+
+.home{
+    color: rgb(248, 225, 51);
+}
+
